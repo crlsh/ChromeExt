@@ -1,6 +1,6 @@
 # Extension de Chrome para mostrar solo el texto de una página web
 
-Esta extensión de Chrome ejecuta una secuencia de comandos que extrae el texto de una página web y lo muestra en un elemento `div` en lugar del cuerpo completo de la página. 
+Esta extensión de Chrome ejecuta una secuencia de comandos que extrae el texto de los parrafos de una página web y lo muestra en lugar del cuerpo completo de la página. 
 Esta extensión no funcionara en todas las páginas, ya que se trata de un ejemplo simple utilizado para probar cómo crear una extensión.
 
 
